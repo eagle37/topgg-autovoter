@@ -1,1 +1,1 @@
-worker: python3 autovoter.py
+worker: python3 multivote.py
